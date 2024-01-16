@@ -4,7 +4,7 @@ This activity allowed me to create an interactive dashboard to explore the Belly
 
 I successfully deployed the app to Github Pages: https://allen048.github.io/belly-button-challenge/
 
-Module 14 Challenge Citations:
+• Module 14 Challenge Citations:
 
 Website Citation: https://bootcampspot.instructure.com/courses/4938/assignments/61912?module_item_id=1077242
 
